@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRCat", "PRCat\PRCat.csproj", "{497C76B1-F2AE-4DCA-8DE2-53D492A39FD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRCat.Core", "PRCat.Core\PRCat.Core.csproj", "{BF4ADCA0-E0D7-471B-9929-D53902701CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRCat.AzureBlob", "PRCat.AzureBlob\PRCat.AzureBlob.csproj", "{6FDE7E9E-141A-4026-A0A4-F8E6624B517D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497C76B1-F2AE-4DCA-8DE2-53D492A39FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497C76B1-F2AE-4DCA-8DE2-53D492A39FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497C76B1-F2AE-4DCA-8DE2-53D492A39FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497C76B1-F2AE-4DCA-8DE2-53D492A39FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF4ADCA0-E0D7-471B-9929-D53902701CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4ADCA0-E0D7-471B-9929-D53902701CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4ADCA0-E0D7-471B-9929-D53902701CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4ADCA0-E0D7-471B-9929-D53902701CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDE7E9E-141A-4026-A0A4-F8E6624B517D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDE7E9E-141A-4026-A0A4-F8E6624B517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDE7E9E-141A-4026-A0A4-F8E6624B517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDE7E9E-141A-4026-A0A4-F8E6624B517D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
