@@ -25,8 +25,6 @@ To config it, change the appSettings sections in Web.config.template and make a 
     <add key="OverdueTicks" value="172800" />
     <!--Monitored Repos-->
     <add key="GitHubRepos" value="mdsol/Gambit,mdsol/Rave,mdsol/ravegarage" />
-    <!--Git hub token-->
-    <add key="GitHubToken" value="{your GitHub token}" />
     <!--Configure it in slack first-->
     <add key="SendToSlackUrl" value="{your slack incoming webhook url}" />
     <!--Azure blob connection string-->
