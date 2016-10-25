@@ -18,8 +18,6 @@
     <add key="OverdueTicks" value="172800" />
     <!--Monitored Repos-->
     <add key="GitHubRepos" value="mdsol/Gambit,mdsol/Rave,mdsol/ravegarage" />
-    <!--Git hub token-->
-    <add key="GitHubToken" value="{your git hub token}" />
     <!--Configure it in slack first-->
     <add key="SendToSlackUrl" value="{your slack incoming webhook url}" />
     <!--Azure blob connection string-->
