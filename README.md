@@ -36,6 +36,7 @@ To config it, see the appsettings example below
 ```
 
 Screenshots:
-![Screenshot]https://cloud.githubusercontent.com/assets/13528118/19702843/62c515b6-9acf-11e6-8032-97f81a76eca2.png
+
+![Screenshot](https://cloud.githubusercontent.com/assets/13528118/19702843/62c515b6-9acf-11e6-8032-97f81a76eca2.png)
 
 
