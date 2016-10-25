@@ -10,7 +10,8 @@ To make it work, you should have
 * A Microsoft Azure blob connection string
 * Correct configuration on the appSettings section
 
-To config it, see the appsettings example below
+To config it, change the appSettings sections in Web.config.template and make a Web.config file in PRCat project.
+
 
 ```xml
  <appSettings>
@@ -34,6 +35,12 @@ To config it, see the appsettings example below
     <add key="AzureBlob.Container" value="daily-pr-reports"/>
   </appSettings>
 ```
+# Usage
+
+Do a POST to 
+
+http(s)://{your_host_name}/api/GitHubApi/SendPRReport?githubtoken={your_github_token}
+
 
 Screenshots:
 
